@@ -1,6 +1,6 @@
 # MobileCurrent (Legacy Project)
 
-MobileCurrent is an early prototype created for [purpose].  
+MobileCurrent is an early prototype created for monitoring RV shore, generator, and inverter AC voltage and current in RV.  
 This repository is published for reference only.
 
 ## Status
